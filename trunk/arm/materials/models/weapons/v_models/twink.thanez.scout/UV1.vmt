@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\twink.thanez.scout\UV1"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\twink.thanez.scout\UV1_ref"
+}
+

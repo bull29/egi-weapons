@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"EGI Weapon Model Pack 3"
+	"version"	"1"
+	"up_date"	""
+	"author_name"	"eriktherandom"
+	"author_email"	""
+	"author_url"	"www.egigaming.com"
+	"info"		""
+	"override"	"0"
+}

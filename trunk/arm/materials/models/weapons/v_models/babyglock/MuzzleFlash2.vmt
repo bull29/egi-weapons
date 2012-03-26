@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\babyglock\MuzzleFlash2"
+	"$selfillum" 1
+	"$additive" 1
+	"$frame" 5
+	"Proxies" 
+	{
+		"AnimatedTexture" 
+		{ 
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "15" //FPS
+		}
+		"Sine"
+		{
+			"resultVar"	"$alpha"
+			"sineperiod"	0.5
+			"sinemin"	0.5
+			"sinemax"	0.7
+			//"timeoffset"	0.0
+		}
+	}
+}

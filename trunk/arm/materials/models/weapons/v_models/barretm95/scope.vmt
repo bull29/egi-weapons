@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\weapons\v_models\barretm95\scope"
+	"$bumpmap"     "models\weapons\v_models\barretm95\scope_nrm"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.05"
+	"$phongfresnelranges" "[1 1 1]"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\BrowningHP\map2"
+	"$selfillum" "1"
+	"$bumpmap" "models\weapons\v_models\BrowningHP\map2_norm"
+        "$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongexponent" "50"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 4 2]"
+}

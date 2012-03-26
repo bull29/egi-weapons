@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\babyglock\compensator"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .64 .64 .64 ]"
+	"$normalmapalphaenvmapmask" "1"
+}

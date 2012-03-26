@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+//Black Slide
+//	"$baseTexture" "models\weapons\v_models\posh.spice.glock\Glock"
+//	"$bumpmap" "models\weapons\v_models\posh.spice.glock\Glock_Norm"
+//Silver Slide
+	"$baseTexture" "models\weapons\v_models\posh.spice.glock\Silver"
+	"$bumpmap" "models\weapons\v_models\posh.spice.glock\Silver_Norm"
+}

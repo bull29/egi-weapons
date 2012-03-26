@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\crosis.mixel.glock\glock"
+	"$bumpmap" "models\weapons\v_models\crosis.mixel.glock\glock_norm"
+	"$envmapmask" "models\weapons\v_models\crosis.mixel.glock\glock_ref"
+	"$envmaptint" "[ .64 .64 .64 ]"
+	"$normalmapalphaenvmapmask" 1
+	
+}
+

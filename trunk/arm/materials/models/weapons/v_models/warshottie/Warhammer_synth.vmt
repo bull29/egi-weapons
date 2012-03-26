@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{	
+"$baseTexture" "models\weapons\v_models\warshottie\Warhammer_synth"	
+"$bumpmap" 	"models\weapons\v_models\warshottie\normalmap"
+}

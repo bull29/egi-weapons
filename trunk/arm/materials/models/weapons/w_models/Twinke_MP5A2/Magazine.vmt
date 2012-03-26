@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+                "$nocull"                 "1"
+	"$basetexture"        "models\weapons\v_models\Twinke_MP5A2\Magazine"
+}

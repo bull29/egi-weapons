@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+                "$nocull"                 "1"
+	"$basetexture"        "models\weapons\v_models\Twinke_MP5A2\Sef"
+	"$bumpmap" 	"models\weapons\v_models\Twinke_MP5A2\Sef_Normal"
+                "$phong" "1"
+                "$phongexponent" "10"
+                "$phongboost"	"0.4"
+                "$phongfresnelranges"	"[.2 4 1]"
+}

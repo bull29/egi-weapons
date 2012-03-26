@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\Colt Gov't\Slide"
+	"$bumpmap" "models\weapons\v_models\Colt Gov't\Slide_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]
+	"$envmapmask" "models\weapons\v_models\Colt Gov't\Slide_ref"
+
+	"$phong" "0"
+	"$phongexponent" "10"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.2 4 1]"
+}

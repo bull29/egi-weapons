@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/weapons/v_models/M4t_AWP/scope"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.18 0.18 0.18 ]"
+}

@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\KAC_PDW\recupper"
+	
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" "10"
+	"$phongfresnelranges" "[1 3 6]"
+}
+
