@@ -1,0 +1,2 @@
+http://weadco.googlecode.com/svn/trunk/Addons/
+You will need to get the WAC base and WAC helecopter .svn's in order to see the helecopters.
