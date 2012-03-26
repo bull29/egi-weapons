@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\twinke.g36\stock"
+	"$bumpmap" "models\weapons\v_models\twinke.g36\stock.norm"
+	"$normalmapalphaenvmapmask" 1
+}

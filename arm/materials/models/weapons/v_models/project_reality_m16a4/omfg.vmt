@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\project_reality_m16a4\Skin3"
+	"$bumpmap" "models\weapons\v_models\project_reality_m16a4\Skin3_normal"
+                "$envmapmask" "models\weapons\V_models\project_reality_m16a4\skin3_ref"
+	"$normalmapalphaenvmapmask" 1
+}

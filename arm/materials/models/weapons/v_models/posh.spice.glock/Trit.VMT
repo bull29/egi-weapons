@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+   "$basetexture"   "models\weapons\v_models\posh.spice.glock\Trit"
+   "$additive" "1"
+   "$selfillum" 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\mk11\joint"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\mk11\joint_ref"
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\acid_aks\Rec"
+	"$envmapmask"  "models\weapons\v_models\acid_aks\Rec_ref"	
+	"$envmap"      "env_cubemap"
+	"$envmaptint" "[ 0.36 0.30 0.36 ]"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .5
+}

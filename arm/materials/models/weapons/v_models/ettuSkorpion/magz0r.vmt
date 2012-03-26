@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\weapons\v_models\ettuSkorpion\magz0r"
+	"$bumpmap" 	"models\weapons\v_models\ettuSkorpion\magz0r_normal"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 8 6]"
+}

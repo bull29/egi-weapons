@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" 			"models\weapons\v_models\kimono.python\bullet"
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" 			"models\weapons\v_models\kimono.python\bullet_ref"
+}

@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\fallvp70\map2"
+    	"$bumpmap" "models\weapons\v_models\fallvp70\map2_normal"
+    	"$envmap" "env_cubemap"
+	"$envmapsaturation" 0.4
+    	"$normalmapalphaenvmapmask" 1
+}

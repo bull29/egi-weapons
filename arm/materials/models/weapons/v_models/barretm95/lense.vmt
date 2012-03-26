@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\weapons\v_models\barretm95\lense"
+	"$envmapmask" "models\weapons\v_models\barretm95\lense_ref"
+	"$translucent" "1"
+	"$envmaptint" "[0.6 0.8 0.8]"
+	"$envmap" "env_cubemap"
+}

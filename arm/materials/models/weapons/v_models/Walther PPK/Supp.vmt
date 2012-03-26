@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\weapons\v_models\Walther PPK\Supp"
+     "$envmap" "env_cubemap"
+     "$envmapmask" "models\weapons\v_models\Walther PPK\Supp_ref"
+                "$nocull" "1"
+} 

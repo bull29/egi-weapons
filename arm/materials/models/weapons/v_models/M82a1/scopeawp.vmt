@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\M82a1\scopeawp"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "models\weapons\v_models\M82a1\scopeawp ref"
+
+}

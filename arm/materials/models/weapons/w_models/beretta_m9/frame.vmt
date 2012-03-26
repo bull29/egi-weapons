@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\w_models\beretta_m9\frame"
+	"$bumpmap" "models\weapons\w_models\beretta_m9\frame_normal"
+}
