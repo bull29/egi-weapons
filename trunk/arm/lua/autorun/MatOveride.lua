@@ -1,0 +1,1 @@
+list.Add("OverrideMaterials","models/xqm/cellshadedcamo_diffuse")
