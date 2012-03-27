@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-	"$baseTexture" "models\weapons\v_models\Jarheads m16a2\556"
-	"$bumpmap" "models\weapons\v_models\Jarheads m16a2\556 norm"
-    	"$envmap" "env_cubemap"
-    	"$normalmapalphaenvmapmask" 1
-
