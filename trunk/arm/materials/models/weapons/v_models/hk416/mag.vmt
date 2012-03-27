@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\weapons\v_models\hk416\mag"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "models\weapons\v_models\hk416\mag_ref"
-}
