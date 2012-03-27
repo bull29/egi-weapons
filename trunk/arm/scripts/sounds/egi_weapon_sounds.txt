@@ -1,0 +1,459 @@
+"weapon_arm_m4a1.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_m4a1/m4a1-dynamic.wav"
+}
+"weapon_arm_ak47.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_ak47/ak47-dynamic.wav"
+}
+"weapon_arm_aks74.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_aks74/aks74-dynamic.wav"
+}
+"weapon_arm_aks74u.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_aks74u/aks74u-dynamic.wav"
+}
+"weapon_arm_awp.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_awp/awp-dynamic.wav"
+}
+"weapon_arm_browninghipower.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_browninghipower/brhp-dynamic.wav"
+}
+"weapon_arm_bstorm.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_bstorm/bstorm-dynamic.wav"
+}
+"weapon_arm_colt45.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_colt45/colt45-dynamic.wav"
+}
+"weapon_arm_fnfal.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_fnfal/fnfal-dynamic.wav"
+}
+"weapon_arm_g3a1.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_g3a1/g3-dynamic.wav"
+}
+"weapon_arm_g36c.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_g36c/g36c-dynamic.wav"
+}
+"weapon_arm_glock17.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_glock17/glock17-dynamic.wav"
+}
+"weapon_arm_glock26.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_glock26/glock26-dynamic.wav"
+}
+"weapon_arm_gp101.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_gp101/gp101-dynamic.wav"
+}
+"weapon_arm_jericho941.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_jericho941/jericho941-dynamic.wav"
+}
+"weapon_arm_kacpdw.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_kacpdw/kac-dynamic.wav"
+}
+"weapon_arm_m1a1.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_m1a1/m1a1-dynamic.wav"
+}
+"weapon_arm_m60.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_m60/m60-dynamic.wav"
+}
+"weapon_arm_m76.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_m76/m76-dynamic.wav"
+}
+"weapon_arm_m95.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_m95/m95-dynamic.wav"
+}
+"weapon_arm_m249.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_m249/m249-dynamic.wav"
+}
+"weapon_arm_mac10.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_mac10/mac10-dynamic.wav"
+}
+"weapon_arm_miniuzi.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_miniuzi/miniuzi-dynamic.wav"
+}
+"weapon_arm_mp5.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_mp5/mp5-dynamic.wav"
+}
+"weapon_arm_mp5k.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_mp5k/mp5k-dynamic.wav"
+}
+"weapon_arm_mp7a1.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_mp7a1/mp7a1-dynamic.wav"
+}
+"weapon_arm_p90.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_p90/p90-dynamic.wav"
+}
+"weapon_arm_p228.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_p228/p228-dynamic.wav"
+}
+"weapon_arm_ppk.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_ppk/ppk-dynamic.wav"
+}
+"weapon_arm_psg1.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_psg1/psg1-dynamic.wav"
+}
+"weapon_arm_s556.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_s556/s556-dynamic.wav"
+}
+"weapon_arm_sa58.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_sa58/sa58-dynamic.wav"
+}
+"weapon_arm_scar.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_scar/scar-dynamic.wav"
+}
+"weapon_arm_scout.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_scout/scout-dynamic.wav"
+}
+"weapon_arm_sigpro.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_sigpro/sigpro-dynamic.wav"
+}
+"weapon_arm_skorpion.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_skorpion/skorpion-dynamic.wav"
+}
+"weapon_arm_sr25.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_sr25/sr25a-dynamic.wav"
+}
+"weapon_arm_supershorty.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_supershorty/supershorty-dynamic.wav"
+}
+"weapon_arm_tec9.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_tec9/tec9-dynamic.wav"
+}
+"weapon_arm_tmp.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_tmp/tmp-dynamic.wav"
+}
+"weapon_arm_ump45.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_ump45/ump45-dynamic.wav"
+}
+"weapon_arm_uzifull.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_uzifull/uzifull-dynamic.wav"
+}
+"weapon_arm_warham.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_warham/warham-dynamic.wav"
+}
+"weapon_arm_xm1014.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_arm_xm1014/xm1014-dynamic.wav"
+}
+"weapon_arm_870.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_egi_870/870-dynamic.wav"
+}
+"weapon_arm_aksl.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_egi_aksl/aksl-dynamic.wav"
+}
+"weapon_arm_an94.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_egi_an94a/an94-dynamic.wav"
+}
+"weapon_arm_g18sil.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_egi_g18sil/g18sil-dynamic.wav"
+}
+"weapon_arm_glock18auto.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_egi_glock18auto/glock18auto-dynamic.wav"
+}
+"weapon_arm_kimber.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_egi_kimber/kimber-dynamic.wav"
+}
+"weapon_arm_m92.single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"100,100"
+
+	"wave"		"^weapons/weapon_egi_m92/m92-dynamic.wav"
+}

@@ -1,2 +1,3 @@
 http://weadco.googlecode.com/svn/trunk/Addons/
 You will need to get the WAC base and WAC helecopter .svn's in order to see the helecopters.
+ If you have any of the other EGI weapons packs YOU MUST REMOVE THEM OR THIS MAY NOT WORK AT ALL!
