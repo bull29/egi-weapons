@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+
+	"$basetexture" 	"models/weapons/v_models/arby_cz75/cz75"
+	"$bumpmap" 	"models/weapons/v_models/arby_cz75/cz75_norm" 
+		"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.1 0.1 0.2 ]"
+	"$envmapconstrast" "1"
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "26"	
+	"$rimlightboost" "0.2"
+	"$nocull" "1"
+}
