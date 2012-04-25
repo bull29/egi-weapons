@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\Colt M4 R.I.S\mag"
+	"$bumpmap" 	"models\weapons\v_models\Colt M4 R.I.S\mag_normal"
+}

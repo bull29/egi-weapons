@@ -1,0 +1,18 @@
+"Unlittwotexture"
+	{
+	// Original shader: VertexLitTexture
+	"$baseTexture" "models\weapons\v_models\Colt M4 R.I.S\eotech_lens"
+	"$texture2"	"scope\gdcw_noise"	
+	"$additive" "1"
+	"$translucent" "1"
+	"$model" "1"	
+	"Proxies"
+	{
+	"TextureScroll"
+	{
+	"texturescrollvar" "$texture2transform"
+	"texturescrollrate" 10
+	"texturescrollangle" -55
+	}
+	}
+	}
