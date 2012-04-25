@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$baseTexture"			"models\weapons\v_models\farcry3_knife\diffuse"
+	"$bumpmap"			"models\weapons\v_models\farcry3_knife\normal"
+	"$nocull"				"1"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmapmask"			"models\weapons\v_models\farcry3_knife\spec"
+	"$envmapcontrast"			"0.9"
+	"$envmapsaturation"		"0.9"
+	"$phong"				"1"
+	"$phongexponent"			"-1"
+	"$phongboost"			"1.0"
+	"$phongfresnelranges"		"[0 0.5 1]"
+}

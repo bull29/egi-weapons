@@ -1,0 +1,18 @@
+"Unlittwotexture"
+	{
+	// Original shader: VertexLitTexture
+	"$basetexture" 	"models\weapons\v_models\SF.Thanez_P90\lens"
+	"$texture2"	"scope\gdcw_noise"
+	"$selfillum" "1"	
+	"$additive" "1"
+	"$model" "1"	
+	"Proxies"
+	{
+	"TextureScroll"
+	{
+	"texturescrollvar" "$texture2transform"
+	"texturescrollrate" 10
+	"texturescrollangle" -55
+	}
+	}
+	}

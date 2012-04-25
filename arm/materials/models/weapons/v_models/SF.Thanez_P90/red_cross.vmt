@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\SF.Thanez_P90\EOT"
+                "$translucent" "1"
+                "$additive" "1"
+                "$selfillum" "1"
+}

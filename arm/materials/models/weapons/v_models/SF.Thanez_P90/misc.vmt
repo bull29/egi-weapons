@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\weapons\v_models\SF.Thanez_P90\Misc"
+	"$bumpmap" "models\weapons\v_models\SF.Thanez_P90\Misc_bump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+
+}
+

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\SF.Thanez_P90\docter"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\SF.Thanez_P90\docter_ref"
+
+}

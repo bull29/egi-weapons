@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\Colt M4 R.I.S\sight"
+	"$bumpmap" 	"models\weapons\v_models\Colt M4 R.I.S\sight_normal"
+}
