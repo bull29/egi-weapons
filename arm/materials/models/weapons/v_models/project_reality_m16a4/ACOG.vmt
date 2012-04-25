@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	
+"$basetexture"	"models\weapons\v_models\project_reality_m16a4\ACOG"
+	"$bumpmap" 	"models\weapons\v_models\project_reality_m16a4\ACOG_Normal"
+ 	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$nocull" "1"
+}
